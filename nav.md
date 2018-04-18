@@ -1,5 +1,5 @@
-[Home](/)
-[Log](/log)
+[home](/)
+[log](/log/index.md)
 
 <style>
   img {max-width: 100%;}
