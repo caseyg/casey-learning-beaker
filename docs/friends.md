@@ -23,6 +23,8 @@ dat://epa.hashbase.io/
 dat://newcomputers.group/
 dat://dc747752e7539e956c7f8d76196f7391cc0c54d9e29741e381d8e373f7625d71/
 
+dat://folder.studio/
+
 dat://www.krismuniz.com/
 dat://profile-krismuniz.hashbase.io/
 dat://utils-krismuniz.hashbase.io/
