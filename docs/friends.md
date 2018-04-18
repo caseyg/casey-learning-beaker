@@ -18,6 +18,12 @@ dat://epa.hashbase.io/
 dat://newcomputers.group/
 dat://dc747752e7539e956c7f8d76196f7391cc0c54d9e29741e381d8e373f7625d71/
 
+## distributed etc.
+
+http://taeyoonchoi.com/soft-care/distributed-web-of-care/
+https://wiki.xxiivv.com/#rotonde
+https://www.scuttlebutt.nz/
+
 ## my dat sites
 
 dat://2d038175fbf152b4643739a36617c4ab4677630286da80988043f68b332a1970 (you are here)
