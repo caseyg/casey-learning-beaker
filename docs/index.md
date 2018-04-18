@@ -1,3 +1,3 @@
-# watery-notebook docs
+# watery docs
 
 - [wishlist](wishlist.md)
