@@ -1,5 +1,6 @@
 [home](/)
 [log](/log/index.md)
+[docs](/docs/index.md)
 
 <style>
   body {
