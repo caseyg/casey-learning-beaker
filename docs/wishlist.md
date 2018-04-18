@@ -2,7 +2,7 @@
 
 ## conceptual
 
-- forgoe version control
+- forgo version control
 - right to be forgotten
 
 ## beaker browser
