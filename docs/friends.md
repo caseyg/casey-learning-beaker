@@ -1,15 +1,18 @@
 # friends
 
+see also, this list:
+
+https://github.com/beakerbrowser/explore
+
 ## cool dat sites
 
 dat://datproject.org/
 
-https://bluelinklabs.com/
 dat://beakerbrowser.com/
-https://hashbase.io
 
 dat://taravancil.com/
 dat://fritter.hashbase.io/
+dat://p2p-photos-taravancil.hashbase.io/
 
 dat://pfrazee.hashbase.io/
 dat://rss-reader-pfrazee.hashbase.io/
@@ -23,6 +26,8 @@ dat://epa.hashbase.io/
 dat://newcomputers.group/
 dat://dc747752e7539e956c7f8d76196f7391cc0c54d9e29741e381d8e373f7625d71/
 
+dat://callil.com/Callil_Capuozzo_Resume.pdf
+
 dat://folder.studio/
 
 dat://www.krismuniz.com/
@@ -35,10 +40,34 @@ dat://ridder-kodedninja.hashbase.io/
 dat://orkl-kodedninja.hashbase.io/
 dat://solo-kodedninja.hashbase.io/
 
+dat://archetype.cc/
+
+dat://base-tiddlywiki-jimpick.hashbase.io/
+
+dat://ring.hashbase.io/
+
 ## decentralized etc. (but not on dat)
+
+https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf
+
+https://github.com/datprotocol/DEPs
+https://github.com/bnewbold/dat-deps/blob/dep-multiwriter/proposals/0000-multiwriter.md
+
+https://bluelinklabs.com/
+https://hashbase.io
+https://github.com/beakerbrowser/specs
+https://github.com/beakerbrowser/webdb
+https://github.com/mafintosh/hyperdrive
+https://github.com/beakerbrowser/p2p-web-workshop
+
+https://www.youtube.com/watch?v=3giNelTfeAk
+
+https://staltz.com/beaker-frontend-dev-dream-browser/#27
 
 https://louis.center/
 http://github.com/louiscenter/hypercast
+
+https://github.com/rjsteinert/ring
 
 http://taeyoonchoi.com/soft-care/distributed-web-of-care/
 
