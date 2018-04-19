@@ -35,10 +35,15 @@ dat://ridder-kodedninja.hashbase.io/
 dat://orkl-kodedninja.hashbase.io/
 dat://solo-kodedninja.hashbase.io/
 
-## distributed etc.
+## decentralized etc. (but not on dat)
+
+https://louis.center/
+http://github.com/louiscenter/hypercast
 
 http://taeyoonchoi.com/soft-care/distributed-web-of-care/
+
 https://wiki.xxiivv.com/#rotonde
+
 https://www.scuttlebutt.nz/
 
 ## my dat sites
