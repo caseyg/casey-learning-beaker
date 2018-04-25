@@ -46,6 +46,8 @@ dat://base-tiddlywiki-jimpick.hashbase.io/
 
 dat://ring.hashbase.io/
 
+dat://dwc-tchoi8.hashbase.io/posts/eaw/
+
 ## decentralized etc. (but not on dat)
 
 https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf
