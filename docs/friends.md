@@ -1,10 +1,12 @@
 # friends
 
+Laurel's elipsis-notebook dat://d817dbf1e698f21b5088e2409a7608fe6778dd9dfc1da6e86a5b8c3f05bab852/
+
+## cool dat:// sites
+
 see also, this list:
 
 https://github.com/beakerbrowser/explore
-
-## cool dat sites
 
 dat://datproject.org/
 
@@ -48,7 +50,7 @@ dat://ring.hashbase.io/
 
 dat://dwc-tchoi8.hashbase.io/posts/eaw/
 
-## decentralized etc. (but not on dat)
+## cool but not directly on dat
 
 https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf
 
