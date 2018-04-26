@@ -9,6 +9,7 @@
 
 - relative url markdown images
 - bookmarks bar
+- detachable tabs
 
 ## electron
 
