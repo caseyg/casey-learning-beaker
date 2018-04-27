@@ -50,6 +50,8 @@ dat://ring.hashbase.io/
 
 dat://dwc-tchoi8.hashbase.io/posts/eaw/
 
+dat://61ba0d4e7fd3f0e935df95be2f323bbad4a6538ea32b999b775e27bc56ae4a25/
+
 dat://dat-cast.hashbase.io/
 
 ## cool but not directly on dat
