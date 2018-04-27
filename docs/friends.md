@@ -50,6 +50,8 @@ dat://ring.hashbase.io/
 
 dat://dwc-tchoi8.hashbase.io/posts/eaw/
 
+dat://dat-cast.hashbase.io/
+
 ## cool but not directly on dat
 
 https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf
